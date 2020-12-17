@@ -1,0 +1,13 @@
+D:\JOKI TUGAS\Erika\OCP-main\CouponWithoutOCP\bin\Debug\netcoreapp3.1\CouponWithoutOCP.exe
+D:\JOKI TUGAS\Erika\OCP-main\CouponWithoutOCP\bin\Debug\netcoreapp3.1\CouponWithoutOCP.deps.json
+D:\JOKI TUGAS\Erika\OCP-main\CouponWithoutOCP\bin\Debug\netcoreapp3.1\CouponWithoutOCP.runtimeconfig.json
+D:\JOKI TUGAS\Erika\OCP-main\CouponWithoutOCP\bin\Debug\netcoreapp3.1\CouponWithoutOCP.runtimeconfig.dev.json
+D:\JOKI TUGAS\Erika\OCP-main\CouponWithoutOCP\bin\Debug\netcoreapp3.1\CouponWithoutOCP.dll
+D:\JOKI TUGAS\Erika\OCP-main\CouponWithoutOCP\bin\Debug\netcoreapp3.1\CouponWithoutOCP.pdb
+D:\JOKI TUGAS\Erika\OCP-main\CouponWithoutOCP\obj\Debug\netcoreapp3.1\CouponWithoutOCP.csprojAssemblyReference.cache
+D:\JOKI TUGAS\Erika\OCP-main\CouponWithoutOCP\obj\Debug\netcoreapp3.1\CouponWithoutOCP.AssemblyInfoInputs.cache
+D:\JOKI TUGAS\Erika\OCP-main\CouponWithoutOCP\obj\Debug\netcoreapp3.1\CouponWithoutOCP.AssemblyInfo.cs
+D:\JOKI TUGAS\Erika\OCP-main\CouponWithoutOCP\obj\Debug\netcoreapp3.1\CouponWithoutOCP.csproj.CoreCompileInputs.cache
+D:\JOKI TUGAS\Erika\OCP-main\CouponWithoutOCP\obj\Debug\netcoreapp3.1\CouponWithoutOCP.dll
+D:\JOKI TUGAS\Erika\OCP-main\CouponWithoutOCP\obj\Debug\netcoreapp3.1\CouponWithoutOCP.pdb
+D:\JOKI TUGAS\Erika\OCP-main\CouponWithoutOCP\obj\Debug\netcoreapp3.1\CouponWithoutOCP.genruntimeconfig.cache
